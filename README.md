@@ -4,8 +4,4 @@
 
 # Tech Stack
 
-from simplepycons import all_icons, PythonIcon
-
-icon1 = PythonIcon()
-icon2 = all_icons.get_python_icon()
-icon3 = all_icons["python"]
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
