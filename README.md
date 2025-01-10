@@ -4,4 +4,8 @@
 
 # Tech Stack
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg
+from simplepycons import all_icons, PythonIcon
+
+icon1 = PythonIcon()
+icon2 = all_icons.get_python_icon()
+icon3 = all_icons["python"]
