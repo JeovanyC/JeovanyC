@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!👋)](https://git.io/typing-svg)
+<div align="center">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to my profile!+👋&center=true&size=30">
+  </a>
+</h1>
+</div>
+</br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeovanyC&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
