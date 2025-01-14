@@ -7,7 +7,11 @@
 </div>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeovanyC&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+**[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeovanyC&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)**<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JeovanyC&show_icons=true&theme=github_dark">
+  </a>
+</div>
 
 ## About Me
 
