@@ -6,7 +6,6 @@
   </h1>
 </div>
 <br>
-
 ## About Me
 
 Hi!
