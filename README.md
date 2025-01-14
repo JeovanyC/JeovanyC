@@ -6,6 +6,13 @@
   </h1>
 </div>
 <br>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JeovanyC&show_icons=true&theme=github_dark">
+  </a>
+</div>
+
 ## About Me
 
 Hi!
@@ -15,12 +22,6 @@ My name is Jeovany, and I'm a Software Developer. I've always aspired to do some
 I'm really interested in learning all kinds of new things. It's part of my life to have a strong need to explore topics I find interesting, and technology-related subjects are among the most fascinating out there. I'm looking to expand my knowledge of technology and related subjects through this GitHub profile.
 
 Feel free to follow me on this journey! 👌
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JeovanyC&show_icons=true&theme=github_dark">
-  </a>
-</div>
 
 ## Tech Stack
 
